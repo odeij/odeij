@@ -1188,8 +1188,9 @@
 <text x="644" y="277" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="27" font-weight="700" letter-spacing="-0.4" fill="#EDEAE0">ODEI</text>
 <path d="M644 295H936" stroke="#1B2733" stroke-width="1"/>
 <text x="644" y="321" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#5A6B7A">Vision &amp; Robotics Lab — AUB</text>
-<text x="644" y="343" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#5A6B7A">3D scene understanding · test-time adaptation</text>
-<text x="644" y="365" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#5A6B7A">HINT-3D · IEEE ICRA 2026, Vienna</text>
+<text x="644" y="343" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#5A6B7A">CV research @ AUB V&R Lab</text>
+<text x="644" y="365" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#5A6B7A">CTO @ BullsAI</text>
+  <text x="644" y="365" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#5A6B7A">3D segmentation, TTA · ICRA 2026</text>
 <text x="644" y="387" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#5A6B7A"></text>
 <text x="644" y="409" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#5A6B7A">github.com/odeij</text>
 </svg>
