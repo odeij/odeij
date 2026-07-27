@@ -32,4 +32,4 @@ PyTorch · Open3D · Pointcept · CUDA · ONNX / TensorRT · Docker · C
 
 - Vision & Robotics Lab, American University of Beirut
 - École 42 Beirut
-- Reach me at `<your-email>`
+- Reach me at <odeijamaeddine@gmail.com> <oj07@aub.edu.lb>
